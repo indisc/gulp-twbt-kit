@@ -1,0 +1,19 @@
+{
+  "name": "gulp-twbt-kit",
+  "version": "0.0.1",
+  "description": "starter-kit",
+  "main": "index.html",
+  "scripts": {
+    "test": "console.log(\"Hello\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indisc/gulp-twbt-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indisc/gulp-twbt-kit/issues"
+  },
+  "homepage": "https://github.com/indisc/gulp-twbt-kit#readme"
+}
